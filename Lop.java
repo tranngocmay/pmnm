@@ -1,0 +1,4 @@
+class Lop
+{
+	int maLop
+}
