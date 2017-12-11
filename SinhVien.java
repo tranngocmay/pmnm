@@ -7,4 +7,5 @@ class SinhVien
 	int so;
 	int ngaySinh;
 	status queQuan;
+	int thangSinh;
 }
